@@ -1,6 +1,6 @@
-:HL["/_next/static/chunks/33ctt0qqaz893.css","style"]
-:HL["/_next/static/media/0c89a48fa5027cee-s.p.2cyn07wtgehh0.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/Aying-built/_next/static/chunks/33ctt0qqaz893.css","style"]
+:HL["/Aying-built/_next/static/media/0c89a48fa5027cee-s.p.2cyn07wtgehh0.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/Aying-built/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["https://picsum.photos/seed/art-0/700/900","image"]
 :HL["https://picsum.photos/seed/art-1/700/900","image"]
 :HL["https://picsum.photos/seed/art-2/700/900","image"]
@@ -13,4 +13,4 @@
 :HL["https://picsum.photos/seed/art-9/700/900","image"]
 :HL["https://picsum.photos/seed/art-10/700/900","image"]
 :HL["https://picsum.photos/seed/art-11/700/900","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"JinNiuMG67C9rMk2nWqQr"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"XJRuzB6OLchaPdrj1vkIB"}
