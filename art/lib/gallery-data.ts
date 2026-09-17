@@ -182,6 +182,10 @@ const images: GalleryItem[] = [
   { src: "/images/discord-art-173.png", title: "3 September 2026" },
   { src: "/images/discord-art-174.png", title: "3 September 2026" },
   { src: "/images/discord-art-175.png", title: "4 September 2026" },
+  { src: "/images/discord-art-176.png", title: "8 September 2026" },
+  { src: "/images/discord-art-177.png", title: "15 September 2026" },
+  { src: "/images/discord-art-178.png", title: "15 September 2026" },
+  { src: "/images/discord-art-179.png", title: "17 September 2026" },
 ]
 
 export const galleryItems: GalleryItem[] = images
